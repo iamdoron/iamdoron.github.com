@@ -128,13 +128,13 @@ pre {
   height: auto;
   min-height: 100%;
   /* This must be the same as the height of the footer */
-  margin-bottom: -60px;
+  margin-bottom: -80px;
 }
 #wrapper:after {
   content: "";
   display: block;
   /* This must be the same as the height of the footer */
-  height: 60px;
+  height: 80px;
 }
 
 .button {
@@ -362,11 +362,12 @@ pre {
 .footer {
   background: #303030;
   color: #D3D3D3;
-  height: 60px;
+  height: 80px;
   overflow: auto;
 }
 .footer .site-title-wrapper {
   margin: -15px auto 35px;
+  margin-top: 10px;
 }
 .footer .site-title a:hover,
 .footer .button-square:hover {
@@ -382,6 +383,7 @@ pre {
   color: #656565;
   font-size: 14px;
   margin: 0;
+  margin-top: -40px;
   text-align: center;
   text-transform: uppercase;
 }
