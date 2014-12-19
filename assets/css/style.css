@@ -198,7 +198,7 @@ pre {
 /* ============================================================ */
 .post {
   /*margin: 0 40px;*/
-  margin: 0 3%;
+  padding: 0 3%;
 }
 
 .post-header, .home-header {
@@ -405,6 +405,10 @@ pre {
 }
 
 /* home page */
+
+.home {
+  padding: 0 3%;
+}
 .home-title {
   font-size: 52px;
   font-weight: 700;
