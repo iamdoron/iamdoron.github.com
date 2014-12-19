@@ -197,7 +197,8 @@ pre {
 /* Post */
 /* ============================================================ */
 .post {
-  margin: 0 40px;
+  /*margin: 0 40px;*/
+  margin: 0 3%;
 }
 
 .post-header, .home-header {
