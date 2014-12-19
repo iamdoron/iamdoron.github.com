@@ -403,6 +403,8 @@ pre {
   border-left-color: #f03838;
 }
 
+
+
 /* ============================================================ */
 /* Media Queries */
 /* ============================================================ */
@@ -419,5 +421,11 @@ pre {
 @media only screen and (max-width: 400px) {
   .post-title {
     font-size: 32px;
+  }
+
+  iframe {
+    min-width: 100%;
+    width: 100px;
+    *width: 100%;
   }
 }
