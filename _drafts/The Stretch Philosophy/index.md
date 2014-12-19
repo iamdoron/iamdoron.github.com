@@ -10,4 +10,4 @@ Couple of weeks ago, I told my yoga instructor I want to practice at home to rea
 
 Each time I lose my sense of direction, and rely *only* on ‘trying to be flexible’, ‘trying to be stronger’, ‘trying to complete the job’, ‘just another push and you can make it’, there’s this new *perception* I acquired; I realise I’m learning how to use my body (to be flexible, to be stronger), I learn when I complete a task at work, I learn from yoga, I’m not just stretching. And to be clear, it’s not just a thought, it’s a perception we can sharpen. [You Learn](www.youtube.com/embed/T1tOHz2l0qE).
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/T1tOHz2l0qE" frameborder="0" allowfullscreen style="display:block; margin: 0 auto;"></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/T1tOHz2l0qE" frameborder="0" allowfullscreen style="display:block;"></iframe>
