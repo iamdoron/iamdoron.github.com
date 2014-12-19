@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iamdoron/iamdoron.github.com/issues"
   },
-  "homepage": "https://github.com/iamdoron/iamdoron.github.com"
+  "homepage": "https://github.com/iamdoron/iamdoron.github.com",
+  "devDependencies": {
+    "markdown-styles": "^1.2.2"
+  }
 }
