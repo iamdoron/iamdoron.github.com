@@ -128,13 +128,13 @@ pre {
   height: auto;
   min-height: 100%;
   /* This must be the same as the height of the footer */
-  margin-bottom: -100px;
+  margin-bottom: -60px;
 }
 #wrapper:after {
   content: "";
   display: block;
   /* This must be the same as the height of the footer */
-  height: 100px;
+  height: 60px;
 }
 
 .button {
@@ -356,11 +356,11 @@ pre {
 .footer {
   background: #303030;
   color: #D3D3D3;
-  height: 100px;
+  height: 60px;
   overflow: auto;
 }
 .footer .site-title-wrapper {
-  margin: 10px auto 35px;
+  margin: -15px auto 35px;
 }
 .footer .site-title a:hover,
 .footer .button-square:hover {
@@ -421,25 +421,35 @@ pre {
 
 .home li {
   list-style: none;
-  padding: 0.3em;
+  /*padding: 0.3em;*/
+  margin: 0;
+  padding: 10px;
   font-size: 0.9em;
   position: relative;
   padding-right: 2em;
   color: RGB(80, 80, 80);
+  padding-left: 20px;
 }
 
 .home li:hover {
   border-radius: 5px;
-  background-color: rgba(68,138,157,0.1);
+  background-color: rgba(68,138,157,0.4);
 }
 
 .home li {
   border-radius: 5px;
-  background-color: rgba(68,138,157,0.03);
+  background-color: rgba(68,138,157,0.2);
+  transition: background-color 0.1s;
 }
+
 
 .home a {
   color: black;
+}
+
+.home h2 {
+  font-size: 32px;
+
 }
 
 .entries h3 span {
