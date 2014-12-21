@@ -360,6 +360,14 @@ pre {
 /* Footer */
 /* ============================================================ */
 
+.share-container a {
+  display: inline;
+}
+
+.share-container {
+  text-align: center;
+}
+
 .home-container a {
   display: inline;
 }
