@@ -28,7 +28,7 @@
               Doron Pagot
             </p>
             <a class="subscribe" href="http://eepurl.com/baeubz" target="_blank">subscribe</a>
-            
+
           </header>
 
           <h2>Entries</h2>
@@ -77,6 +77,21 @@
   ga('send', 'pageview');
 
   </script>
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+  <script type="text/javascript">
+  (function() {
+    function async_load(script_url){
+      var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+      var s = document.createElement('script'); s.src = protocol + script_url;
+      var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    }
+    bm_website_code = 'A756A2C702B14303';
+    jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+    jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+  })();
+  </script>
+  
 </body>
 
 </html>
