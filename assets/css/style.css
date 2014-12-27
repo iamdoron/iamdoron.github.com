@@ -272,6 +272,15 @@ pre {
   display: none;
 }
 
+.books-container img {
+  display: inline-block;
+  margin-right: 14px;
+  margin-top: 0;
+}
+
+.books-container a img {
+  width: 100px;
+}
 /* ============================================================ */
 /* Post Index */
 /* ============================================================ */
