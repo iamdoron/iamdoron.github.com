@@ -32,7 +32,7 @@ Moving away from a slider, I could have just written it in words, and ask you to
 
 <br>
 It's still a discrete scale, but now it's even harder. The choices seem over simplified. <br>
-That's why I say - give us a continuous scale, humans are pretty good in that, don't worry about us, we'll manage.
+That's why I say - give us a continuous scale, humans are pretty good in that, don't worry about us, we'll manage. What we don't want is a scale with 10 discrete phrases to read.
 
 ## Substitution
 There is (at least) one flaw in the process of projecting what we feel to a slider. Sometimes the question is hard. For example, an hotel can have a really good service, but small rooms with no air conditioner. That's when the process of *substitution* takes the reins. We might replace the original question with one which is much easier; for example, 'how good was the service?'. Or maybe the other way around - 'how comfortable were the rooms?' - Because it's a much easier answer, we can easily project it to a slider.

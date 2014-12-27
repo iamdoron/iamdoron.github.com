@@ -281,6 +281,16 @@ pre {
 .books-container a img {
   width: 100px;
 }
+
+.post input[type="range"]{
+  width: 100%;
+}
+
+.post input[type="radio"]{
+  -webkit-transform: scale(2, 2);
+  margin: 1.15em 1.15em 1.15em 10px;
+}
+
 /* ============================================================ */
 /* Post Index */
 /* ============================================================ */
