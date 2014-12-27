@@ -209,7 +209,7 @@ pre {
   text-transform: uppercase;
 }
 
-.post-header .subscribe {
+.post-header .subscribe, .home-header .subscribe{
   float: right;
 }
 
@@ -321,7 +321,7 @@ pre {
   padding: 20px 5px;
 }
 .post-stub a:hover {
-  background: #FCF5F5;
+  background: white;
   color: #f03838;
   padding: 20px 12px;
 }
@@ -509,7 +509,7 @@ pre {
 }
 
 
-.home a {
+.entries a {
   color: black;
 }
 
