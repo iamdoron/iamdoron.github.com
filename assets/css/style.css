@@ -209,6 +209,10 @@ pre {
   text-transform: uppercase;
 }
 
+.post-header .subscribe {
+  float: right;
+}
+
 .post-title {
   font-size: 52px;
   font-weight: 700;
@@ -407,6 +411,21 @@ pre {
 .footer .site-title a:hover,
 .footer .button-square:hover {
   background: #121212;
+}
+
+.footer .subscribe {
+  float: right;
+  margin-right: 10px;
+  color: lightgray;
+}
+
+.footer .subscribe:hover {
+  color: white;
+}
+
+.footer #twitter-widget-1 {
+  float: left;
+  margin-left: 10px;
 }
 
 .button-jump-top {
