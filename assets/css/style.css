@@ -509,6 +509,9 @@ pre {
   margin-left: 1%;
   display: none;
 }
+.entries li {
+  margin-bottom: 5px;
+}
 
 /* not found */
 .not-found {
