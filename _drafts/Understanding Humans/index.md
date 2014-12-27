@@ -44,7 +44,7 @@ The tool is simple - break the question to sub questions, such as:
 - How comfortable were the rooms?
 - How close the hotel was to the center?
 
-Now, answer them all using "a slider". Then, you can either average the answers (you may assign different weights for each question, or use a complicated formula), or, surprisingly, just answer the original answer. It seems as if holding the sub-questions answers in your mind will help you evaluate the original answer objectively.
+Now, answer them all using "a slider". Then, you can either average the answers (you may assign different weights for each question, or use a complicated formula), or, surprisingly, just answer the original answer _after_ you answered all the sub-questions. It seems as if holding the sub-questions answers in your mind will help you evaluate the original answer objectively.
 
 Sometimes, people will take advantage of the substitution + intensity matching. Usually you see it in advertisements that try to substitute the question - 'Do I want to buy this product?' with 'How cool is this product?', 'How fun is it going to be?' or even 'How beautiful is this presenter?'. <br>
 
