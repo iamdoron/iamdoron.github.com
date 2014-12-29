@@ -2,7 +2,7 @@
 
 Usually we stretch, we push to make it to the next level, we try to squeeze the most we can - Because we want to be better. Sometimes I get caught up with that state of mind; ‘I only need to stretch more each day and I’ll make it’. I’ll make what?
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tahina.JPG/1024px-Tahina.JPG)
+![Tahini](http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tahina.JPG/1024px-Tahina.JPG)
 To illustrate *a point I still haven’t made*, let's talk about [Tahini](http://en.wikipedia.org/wiki/Tahini). <br>
 When you prepare Tahini you usually take some 'Raw Tahini' (thick, ground, sesame seed fluid) and water. You mix both, add some spices and olive oil. The first time you try to prepare Tahini, if nobody told you otherwise, you would probably just pour the water and the raw Tahini to a ball and mix them. That's when you find yourself in a weird spot. It doesn't work; I remember myself mixing and mixing and mixing and mixing and mixing. Eventually, you learn; you learn that you pour the water __slowly__, __gradually__, you learn that you actually don’t need a lot of water. Today, I found myself amazed by how fast I can prepare Tahini compared to my first time. Something happened. I learned the magic.
 
