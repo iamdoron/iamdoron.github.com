@@ -64,7 +64,7 @@ The other group experienced substitution (really high correlation between the an
 
 ## Imperfection Is King
 Just to chill our negative feelings about the human race, I think It's good to remember that our imperfection is what makes us amazing. A computer is _perfect_, in the sense that it does not tolerate errors - it does what it is instructed to do. We are not computers. We were 'designed' (by evolution) to make mistakes, to be imperfect (to survive). <br>
-Like every coin, there are two sides here, and you cannot separate them. What can sometimes make us amazing (_substitution_, _intensity_ matching have many great aspects), sometimes make us fall. It's good to be the observer of these falls if we want to go learn something from them and "progress".
+Like every coin, there are two sides here, and you cannot separate them. What can sometimes make us amazing (_substitution_, _intensity_ matching have many great aspects), sometimes make us fall. It's good to be the observer of these falls if we want to go learn something from them and "progress" along our imaginary slider.
 
 ## Go Deeper
 <div class="books-container">
