@@ -537,6 +537,14 @@ pre {
   text-align: center;
 }
 
+/* disquss */
+#disqus_thread {
+  margin: 10px auto;
+  position: relative;
+  width: 90%;
+  max-width: 889px;
+}
+
 /* ============================================================ */
 /* Media Queries */
 /* ============================================================ */
