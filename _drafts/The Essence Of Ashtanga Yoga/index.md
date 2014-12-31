@@ -67,6 +67,6 @@ Breathing makes everything much easier, comfortable. Breathing is part of what u
 
 If you _practice_, if you _breathe_, if you use your _Mūla Bandha_, that's the essence. If you have a 'quest', let it be one of those. Oh, and of course, have a teacher, someone to pass you down this important 1% of theory.
 
-My yoga teacher once told me he watched Sri K. Pattabhi Jois' grandson, Sharath (I can't find this specific video), and he wondered - Sharath wasn't perfect (in his technique). Then my teacher suddenly realised, this his 'quest' for technique was not the essence; he saw Sharath use his _Mūla Bandha_, _breathe_. It's as simple as that. Sometimes we see an end and we make it the means.
+My yoga teacher once told me he watched Sri K. Pattabhi Jois' grandson, Sharath (I can't find this specific video), and he wondered - Sharath wasn't perfect (in his technique). Then my teacher suddenly realised, that his 'quest' for technique was not the 'essence'; he saw Sharath use his _Mūla Bandha_, _breathe_. It's as simple as that. Sometimes we see an end and we make it the means.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/6dSAyFmmARI?start=293&end=359" frameborder="0" allowfullscreen style="display:block;"></iframe>
