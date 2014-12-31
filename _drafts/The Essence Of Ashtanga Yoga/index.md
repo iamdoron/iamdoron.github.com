@@ -2,7 +2,7 @@
 We're not in a *quest* to find the 'essence', 'enlightenment' (maybe allignment). We're here to listen, to observe, to be. That's why when I'm talking about an essence, I talk about my observations, trying to see things as they are. Don't take it too seriously, and have your own experience be your guide.
 
 ## 99 Percent Practice, 1 Percent Theory Enough
-The words of the late Astanga's Guruji, Sri K. Pattabhi Jois:
+The words of the late Ashtanga's Guruji, Sri K. Pattabhi Jois:
 <iframe width="420" height="315" src="//www.youtube.com/embed/ttRaZkigQmQ?start=339&end=364" frameborder="0" allowfullscreen style="display:block;"></iframe>
 
 
@@ -49,7 +49,7 @@ This guy might help you visualize it (he also adds Uḍḍiyāna Bandha to the m
 
 ## Breathing
 
-Now, use your Mūla Bandha, and let's watch a typical astanga practice
+Now, use your Mūla Bandha, and let's watch a typical ashtanga practice
 <iframe width="420" height="315" src="//www.youtube.com/embed/ttRaZkigQmQ?start=108&end=122" frameborder="0" allowfullscreen style="display:block;"></iframe>
 
 
