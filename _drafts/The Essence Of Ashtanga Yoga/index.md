@@ -3,7 +3,7 @@ We're not in a *quest* to find the 'essence', 'enlightenment' (maybe allignment)
 
 ## 99 Percent Practice, 1 Percent Theory Enough
 The words of the late Ashtanga's Guruji, Sri K. Pattabhi Jois:
-<iframe width="420" height="315" src="//www.youtube.com/embed/ttRaZkigQmQ?start=339&end=364" frameborder="0" allowfullscreen style="display:block;"></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/ttRaZkigQmQ?start=339&end=366" frameborder="0" allowfullscreen style="display:block;"></iframe>
 
 
 > Yes, 99% practice.
