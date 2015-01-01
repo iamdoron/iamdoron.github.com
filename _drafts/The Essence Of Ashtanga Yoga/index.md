@@ -45,7 +45,7 @@ Mūla Bandha appears almost in any assana. Usually you don't fully lock it, whic
 > Without Mūla Bandha - __no yoga__.
 
 This guy might help you visualize it (he also adds Uḍḍiyāna Bandha to the mix, and he has the same name as I do)
-<iframe width="420" height="315" src="//www.youtube.com/embed/JcV1JA515zQ" frameborder="0" allowfullscreen style="display:block;"></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/JcV1JA515zQ?end=165" frameborder="0" allowfullscreen style="display:block;"></iframe>
 
 ## Breathing
 
